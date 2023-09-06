@@ -1,2 +1,2 @@
 # Portfolio
-Hosted with Netlify - https://main--comfy-bienenstitch-f13eeb.netlify.app/
+Hosted with Netlify - https://tguasj7.netlify.app/
