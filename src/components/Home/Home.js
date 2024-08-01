@@ -10,7 +10,7 @@ function Home() {
     <section>
       <Container fluid className="home-section" id="home">
         <Particle />
-        {/* <MatrixBackground /> */}
+        <MatrixBackground />
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
