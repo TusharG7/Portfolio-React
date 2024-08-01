@@ -12,8 +12,8 @@ function AboutCard() {
             from <span className="purple"> Mumbai, India.</span>
             <br /> I am a software developer.
             <br /> Year 2022, I completed my bachelors in Computer Engineering.
-            <br />
-            Apart from coding, some other activities that I love to do!
+            <br />Well-versed in Next.js 14, ReactJS, Puppeteer for automation, SSR,caching, MongoDB, Nodejs for Backend (Express.js) and Git/GitHub for version control,crafting tailored web solutions that meet business needs effectively.
+           <br /> Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
